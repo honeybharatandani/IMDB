@@ -1,1 +1,1 @@
-<a href="https://imdb-clone106.netlify.app">Have a Look here of IMDB-Clone</a>
+<h1><a href="https://imdb-clone-halp.netlify.app">Click here to have a look</a></h1>
